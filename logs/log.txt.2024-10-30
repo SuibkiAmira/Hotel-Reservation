@@ -1,0 +1,25 @@
+2024-10-30 00:15:29,061 * INFO * Controller.com.hotel.hotel.UserController * GetHomeView * Someone in
+2024-10-30 02:07:39,654 * INFO * Controller.com.hotel.hotel.UserController * GetHomeView * Someone in
+2024-10-30 02:08:22,788 * INFO * Controller.com.hotel.hotel.UserController * GetHomeView * Someone in
+2024-10-30 02:11:40,387 * INFO * Controller.com.hotel.hotel.UserController * GetHomeView * Someone in
+2024-10-30 02:11:52,947 * INFO * Controller.com.hotel.hotel.UserController * GetHomeView * Someone in
+2024-10-30 02:11:58,429 * INFO * Controller.com.hotel.hotel.UserController * GetHomeView * Someone in
+2024-10-30 02:12:02,706 * INFO * Controller.com.hotel.hotel.UserController * GetHomeView * Someone in
+2024-10-30 02:16:41,618 * INFO * Controller.com.hotel.hotel.UserController * GetHomeView * Someone in
+2024-10-30 02:16:48,091 * INFO * Controller.com.hotel.hotel.UserController * GetHomeView * Someone in
+2024-10-30 22:58:30,728 * INFO * com.hotel.hotel.Controller.UserController * GetHomeView * Someone in
+2024-10-30 23:23:20,058 * INFO * com.hotel.hotel.Controller.UserController * GetAllChambres * User viewing available chambres
+2024-10-30 23:24:06,604 * INFO * com.hotel.hotel.Controller.UserController * GetHomeView * Someone in
+2024-10-30 23:41:29,838 * INFO * com.hotel.hotel.Controller.UserController * GetHomeView * Someone in
+2024-10-30 23:41:43,525 * INFO * com.hotel.hotel.Controller.UserController * GetHomeView * Someone in
+2024-10-30 23:41:46,553 * INFO * com.hotel.hotel.Controller.UserController * GetHomeView * Someone in
+2024-10-30 23:41:52,041 * INFO * com.hotel.hotel.Controller.UserController * AddChambre * Admin trying to add a new Chambre
+2024-10-30 23:43:53,399 * INFO * com.hotel.hotel.Controller.UserController * AddChambre * Admin trying to add a new Chambre
+2024-10-30 23:44:02,946 * INFO * com.hotel.hotel.Controller.UserController * GetHomeView * Someone in
+2024-10-30 23:44:06,142 * INFO * com.hotel.hotel.Controller.UserController * AddChambre * Admin trying to add a new Chambre
+2024-10-30 23:45:13,113 * INFO * com.hotel.hotel.Controller.UserController * GetHomeView * Someone in
+2024-10-30 23:45:31,157 * INFO * com.hotel.hotel.Controller.UserController * AddChambre * Admin trying to add a new Chambre
+2024-10-30 23:46:22,936 * INFO * com.hotel.hotel.Controller.UserController * GetHomeView * Someone in
+2024-10-30 23:46:25,829 * INFO * com.hotel.hotel.Controller.UserController * GetHomeView * Someone in
+2024-10-30 23:46:29,676 * INFO * com.hotel.hotel.Controller.UserController * AddChambre * Admin trying to add a new Chambre
+2024-10-30 23:48:52,293 * INFO * com.hotel.hotel.Controller.UserController * AddChambre * Admin trying to add a new Chambre

@@ -1,0 +1,121 @@
+2024-10-17 19:16:52,357 * INFO * Controller.com.hotel.hotel.UserController * GetHomeView * Someone in
+2024-10-17 19:17:10,170 * INFO * Controller.com.hotel.hotel.UserController * GetHomeView * Someone in
+2024-10-17 19:17:13,469 * INFO * Controller.com.hotel.hotel.UserController * GetHomeView * Someone in
+2024-10-17 19:17:17,161 * INFO * Controller.com.hotel.hotel.UserController * GetHomeView * Someone in
+2024-10-17 19:17:46,009 * INFO * Controller.com.hotel.hotel.UserController * GetAllCars * User viewing available cars
+2024-10-17 19:18:15,725 * INFO * Controller.com.hotel.hotel.UserController * GetAllCustomers * Admin viewing customers
+2024-10-17 19:18:22,574 * INFO * Controller.com.hotel.hotel.UserController * GetAllCustomers * Admin viewing customers
+2024-10-17 19:31:45,491 * INFO * Controller.com.hotel.hotel.UserController * GetAllCustomers * Admin viewing customers
+2024-10-17 19:32:24,053 * INFO * Controller.com.hotel.hotel.UserController * GetAllCars * User viewing available cars
+2024-10-17 19:32:26,792 * INFO * Controller.com.hotel.hotel.UserController * AddCar * Admin trying to add a new chambre
+2024-10-17 19:32:41,847 * INFO * Controller.com.hotel.hotel.UserController * SaveCar * Admin saved some process about cars
+2024-10-17 19:32:41,882 * INFO * Controller.com.hotel.hotel.UserController * GetAllCars * User viewing available cars
+2024-10-17 19:33:09,428 * INFO * Controller.com.hotel.hotel.UserController * GetAllCars * User viewing available cars
+2024-10-17 19:33:17,302 * INFO * Controller.com.hotel.hotel.UserController * UpdateCarInfo * Admin trying to update a chambre
+2024-10-17 19:33:22,882 * INFO * Controller.com.hotel.hotel.UserController * SaveCar * Admin saved some process about cars
+2024-10-17 19:33:22,890 * INFO * Controller.com.hotel.hotel.UserController * GetAllCars * User viewing available cars
+2024-10-17 19:33:34,798 * INFO * Controller.com.hotel.hotel.UserController * GetAllCustomers * Admin viewing customers
+2024-10-17 19:33:47,191 * INFO * Controller.com.hotel.hotel.UserController * AddCustomer * Admin trying to add  a new customer
+2024-10-17 19:34:14,174 * INFO * Controller.com.hotel.hotel.UserController * SaveCustomer * Admin saved some process about customers
+2024-10-17 19:34:14,185 * INFO * Controller.com.hotel.hotel.UserController * GetAllCustomers * Admin viewing customers
+2024-10-17 19:34:19,289 * INFO * Controller.com.hotel.hotel.UserController * GetHomeView * Someone in
+2024-10-17 19:34:29,403 * INFO * Controller.com.hotel.hotel.UserController * GetHomeView * Someone in
+2024-10-17 19:34:35,869 * INFO * Controller.com.hotel.hotel.UserController * GetHomeView * Someone in
+2024-10-17 19:35:03,824 * INFO * Controller.com.hotel.hotel.UserController * GetHomeView * Someone in
+2024-10-17 19:35:05,720 * INFO * Controller.com.hotel.hotel.UserController * GetAllCars * User viewing available cars
+2024-10-17 19:35:09,383 * INFO * Controller.com.hotel.hotel.UserController * BookingCar * Some user trying to rent a chambre
+2024-10-17 19:35:20,060 * INFO * Controller.com.hotel.hotel.UserController * SaveBooking * User rented a chambre
+2024-10-17 19:35:20,069 * INFO * Controller.com.hotel.hotel.UserController * GetAllCars * User viewing available cars
+2024-10-17 19:35:24,037 * INFO * Controller.com.hotel.hotel.UserController * GetMyOrders * User viewing orders
+2024-10-17 19:35:32,176 * INFO * Controller.com.hotel.hotel.UserController * ReturnCar * User returned a chambre
+2024-10-17 19:35:32,190 * INFO * Controller.com.hotel.hotel.UserController * GetAllCars * User viewing available cars
+2024-10-17 19:35:42,289 * INFO * Controller.com.hotel.hotel.UserController * GetMyOrders * User viewing orders
+2024-10-17 19:36:08,982 * INFO * Controller.com.hotel.hotel.UserController * GetHomeView * Someone in
+2024-10-17 19:36:36,658 * INFO * Controller.com.hotel.hotel.UserController * GetAllCars * User viewing available cars
+2024-10-17 19:41:40,214 * INFO * Controller.com.hotel.hotel.UserController * BookingCar * Some user trying to rent a chambre
+2024-10-17 19:41:51,820 * INFO * Controller.com.hotel.hotel.UserController * GetAllCars * User viewing available cars
+2024-10-17 19:41:55,765 * INFO * Controller.com.hotel.hotel.UserController * BookingCar * Some user trying to rent a chambre
+2024-10-17 19:42:04,643 * INFO * Controller.com.hotel.hotel.UserController * SaveBooking * User rented a chambre
+2024-10-17 19:42:04,649 * INFO * Controller.com.hotel.hotel.UserController * GetAllCars * User viewing available cars
+2024-10-17 19:42:07,807 * INFO * Controller.com.hotel.hotel.UserController * GetMyOrders * User viewing orders
+2024-10-17 19:42:10,674 * INFO * Controller.com.hotel.hotel.UserController * UpdateBooking * User trying to update booking
+2024-10-17 19:42:17,893 * INFO * Controller.com.hotel.hotel.UserController * SaveBooking * User rented a chambre
+2024-10-17 19:42:17,900 * INFO * Controller.com.hotel.hotel.UserController * GetAllCars * User viewing available cars
+2024-10-17 20:11:44,588 * INFO * Controller.com.hotel.hotel.UserController * GetAllCars * User viewing available cars
+2024-10-17 20:11:52,161 * INFO * Controller.com.hotel.hotel.UserController * GetHomeView * Someone in
+2024-10-17 20:11:56,140 * INFO * Controller.com.hotel.hotel.UserController * GetHomeView * Someone in
+2024-10-17 20:17:49,213 * INFO * Controller.com.hotel.hotel.UserController * GetHomeView * Someone in
+2024-10-17 20:17:51,677 * INFO * Controller.com.hotel.hotel.UserController * GetHomeView * Someone in
+2024-10-17 20:19:33,062 * INFO * Controller.com.hotel.hotel.UserController * GetHomeView * Someone in
+2024-10-17 20:19:40,469 * INFO * Controller.com.hotel.hotel.UserController * GetHomeView * Someone in
+2024-10-17 20:19:42,319 * INFO * Controller.com.hotel.hotel.UserController * GetHomeView * Someone in
+2024-10-17 20:19:43,190 * INFO * Controller.com.hotel.hotel.UserController * GetHomeView * Someone in
+2024-10-17 20:19:43,403 * INFO * Controller.com.hotel.hotel.UserController * GetHomeView * Someone in
+2024-10-17 20:19:59,573 * INFO * Controller.com.hotel.hotel.UserController * GetAllCars * User viewing available cars
+2024-10-17 20:20:05,573 * INFO * Controller.com.hotel.hotel.UserController * GetHomeView * Someone in
+2024-10-17 20:24:54,059 * INFO * Controller.com.hotel.hotel.UserController * GetHomeView * Someone in
+2024-10-17 20:24:56,273 * INFO * Controller.com.hotel.hotel.UserController * GetHomeView * Someone in
+2024-10-17 20:25:18,428 * INFO * Controller.com.hotel.hotel.UserController * GetHomeView * Someone in
+2024-10-17 20:25:20,466 * INFO * Controller.com.hotel.hotel.UserController * GetHomeView * Someone in
+2024-10-17 20:26:20,308 * INFO * Controller.com.hotel.hotel.UserController * GetHomeView * Someone in
+2024-10-17 20:26:23,673 * INFO * Controller.com.hotel.hotel.UserController * GetHomeView * Someone in
+2024-10-17 20:30:12,040 * INFO * Controller.com.hotel.hotel.UserController * GetHomeView * Someone in
+2024-10-17 20:30:22,515 * INFO * Controller.com.hotel.hotel.UserController * GetHomeView * Someone in
+2024-10-17 20:39:15,094 * INFO * Controller.com.hotel.hotel.UserController * GetHomeView * Someone in
+2024-10-17 20:39:25,215 * INFO * Controller.com.hotel.hotel.UserController * GetHomeView * Someone in
+2024-10-17 20:41:54,934 * INFO * Controller.com.hotel.hotel.UserController * GetHomeView * Someone in
+2024-10-17 20:45:58,955 * INFO * Controller.com.hotel.hotel.UserController * GetHomeView * Someone in
+2024-10-17 20:46:02,879 * INFO * Controller.com.hotel.hotel.UserController * GetAllCars * User viewing available cars
+2024-10-17 20:52:37,344 * INFO * Controller.com.hotel.hotel.UserController * GetHomeView * Someone in
+2024-10-17 20:57:51,179 * INFO * Controller.com.hotel.hotel.UserController * GetHomeView * Someone in
+2024-10-17 21:04:26,044 * INFO * Controller.com.hotel.hotel.UserController * GetHomeView * Someone in
+2024-10-17 21:04:32,052 * INFO * Controller.com.hotel.hotel.UserController * GetHomeView * Someone in
+2024-10-17 21:08:58,550 * INFO * Controller.com.hotel.hotel.UserController * GetHomeView * Someone in
+2024-10-17 21:09:36,127 * INFO * Controller.com.hotel.hotel.UserController * GetHomeView * Someone in
+2024-10-17 21:09:49,529 * INFO * Controller.com.hotel.hotel.UserController * GetHomeView * Someone in
+2024-10-17 21:10:21,529 * INFO * Controller.com.hotel.hotel.UserController * GetAllCars * User viewing available cars
+2024-10-17 21:10:31,044 * INFO * Controller.com.hotel.hotel.UserController * GetHomeView * Someone in
+2024-10-17 21:10:35,550 * INFO * Controller.com.hotel.hotel.UserController * GetAllCars * User viewing available cars
+2024-10-17 21:12:43,566 * INFO * Controller.com.hotel.hotel.UserController * GetHomeView * Someone in
+2024-10-17 21:12:51,862 * INFO * Controller.com.hotel.hotel.UserController * GetAllCars * User viewing available cars
+2024-10-17 21:14:22,186 * INFO * Controller.com.hotel.hotel.UserController * GetAllCars * User viewing available cars
+2024-10-17 21:14:38,994 * INFO * Controller.com.hotel.hotel.UserController * GetAllCars * User viewing available cars
+2024-10-17 21:15:09,455 * INFO * Controller.com.hotel.hotel.UserController * GetAllCars * User viewing available cars
+2024-10-17 21:15:28,558 * INFO * Controller.com.hotel.hotel.UserController * GetHomeView * Someone in
+2024-10-17 21:17:23,299 * INFO * Controller.com.hotel.hotel.UserController * GetHomeView * Someone in
+2024-10-17 21:18:12,882 * INFO * Controller.com.hotel.hotel.UserController * GetHomeView * Someone in
+2024-10-17 21:19:07,448 * INFO * Controller.com.hotel.hotel.UserController * GetHomeView * Someone in
+2024-10-17 21:19:24,273 * INFO * Controller.com.hotel.hotel.UserController * GetHomeView * Someone in
+2024-10-17 21:20:22,398 * INFO * Controller.com.hotel.hotel.UserController * GetHomeView * Someone in
+2024-10-17 21:20:30,641 * INFO * Controller.com.hotel.hotel.UserController * GetHomeView * Someone in
+2024-10-17 21:21:06,522 * INFO * Controller.com.hotel.hotel.UserController * GetHomeView * Someone in
+2024-10-17 21:21:11,826 * INFO * Controller.com.hotel.hotel.UserController * GetAllCars * User viewing available cars
+2024-10-17 21:22:28,635 * INFO * Controller.com.hotel.hotel.UserController * GetAllCars * User viewing available cars
+2024-10-17 21:22:39,719 * INFO * Controller.com.hotel.hotel.UserController * GetHomeView * Someone in
+2024-10-17 21:22:47,652 * INFO * Controller.com.hotel.hotel.UserController * GetHomeView * Someone in
+2024-10-17 21:22:52,697 * INFO * Controller.com.hotel.hotel.UserController * AddCar * Admin trying to add a new chambre
+2024-10-17 21:22:59,533 * INFO * Controller.com.hotel.hotel.UserController * GetHomeView * Someone in
+2024-10-17 23:16:24,224 * INFO * Controller.com.hotel.hotel.UserController * GetHomeView * Someone in
+2024-10-17 23:16:41,539 * INFO * Controller.com.hotel.hotel.UserController * GetHomeView * Someone in
+2024-10-17 23:16:47,380 * INFO * Controller.com.hotel.hotel.UserController * GetHomeView * Someone in
+2024-10-17 23:17:02,129 * INFO * Controller.com.hotel.hotel.UserController * GetHomeView * Someone in
+2024-10-17 23:17:37,094 * INFO * Controller.com.hotel.hotel.UserController * GetAllCars * User viewing available cars
+2024-10-17 23:18:01,988 * INFO * Controller.com.hotel.hotel.UserController * GetAllCars * User viewing available cars
+2024-10-17 23:18:15,190 * INFO * Controller.com.hotel.hotel.UserController * GetHomeView * Someone in
+2024-10-17 23:20:11,569 * INFO * Controller.com.hotel.hotel.UserController * GetHomeView * Someone in
+2024-10-17 23:32:46,994 * INFO * Controller.com.hotel.hotel.UserController * GetHomeView * Someone in
+2024-10-17 23:34:31,076 * INFO * Controller.com.hotel.hotel.UserController * GetHomeView * Someone in
+2024-10-17 23:35:24,310 * INFO * Controller.com.hotel.hotel.UserController * GetHomeView * Someone in
+2024-10-17 23:37:49,876 * INFO * Controller.com.hotel.hotel.UserController * GetHomeView * Someone in
+2024-10-17 23:38:49,111 * INFO * Controller.com.hotel.hotel.UserController * GetHomeView * Someone in
+2024-10-17 23:39:11,642 * INFO * Controller.com.hotel.hotel.UserController * GetHomeView * Someone in
+2024-10-17 23:39:33,193 * INFO * Controller.com.hotel.hotel.UserController * GetHomeView * Someone in
+2024-10-17 23:40:14,987 * INFO * Controller.com.hotel.hotel.UserController * GetHomeView * Someone in
+2024-10-17 23:40:39,616 * INFO * Controller.com.hotel.hotel.UserController * GetHomeView * Someone in
+2024-10-17 23:42:44,439 * INFO * Controller.com.hotel.hotel.UserController * GetHomeView * Someone in
+2024-10-17 23:46:37,888 * INFO * Controller.com.hotel.hotel.UserController * GetHomeView * Someone in
+2024-10-17 23:50:18,132 * INFO * Controller.com.hotel.hotel.UserController * GetHomeView * Someone in
+2024-10-17 23:50:52,634 * INFO * Controller.com.hotel.hotel.UserController * GetAllCars * User viewing available cars
+2024-10-17 23:52:11,862 * INFO * Controller.com.hotel.hotel.UserController * GetAllCars * User viewing available cars
+2024-10-17 23:53:21,406 * INFO * Controller.com.hotel.hotel.UserController * GetHomeView * Someone in
+2024-10-17 23:53:47,602 * INFO * Controller.com.hotel.hotel.UserController * GetHomeView * Someone in

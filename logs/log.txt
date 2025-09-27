@@ -1,0 +1,3 @@
+2025-01-09 14:16:43,163 * INFO * com.hotel.hotel.Controller.UserController * GetHomeView * Someone in
+2025-01-09 14:18:46,076 * INFO * com.hotel.hotel.Controller.UserController * GetHomeView * Someone in
+2025-01-09 14:18:56,067 * INFO * com.hotel.hotel.Controller.UserController * AddChambre * Admin trying to add a new Chambre

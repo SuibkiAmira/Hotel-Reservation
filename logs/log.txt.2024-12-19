@@ -1,0 +1,226 @@
+2024-12-19 21:05:29,630 * INFO * com.hotel.hotel.Controller.UserController * GetHomeView * Someone in
+2024-12-19 21:05:39,226 * INFO * com.hotel.hotel.Controller.UserController * GetHomeView * Someone in
+2024-12-19 21:05:49,817 * INFO * com.hotel.hotel.Controller.UserController * GetAllChambres * User viewing available chambres
+2024-12-19 21:06:14,263 * INFO * com.hotel.hotel.Controller.UserController * GetAllChambres * User viewing available chambres
+2024-12-19 21:06:25,607 * INFO * com.hotel.hotel.Controller.UserController * GetHomeView * Someone in
+2024-12-19 21:06:34,061 * INFO * com.hotel.hotel.Controller.UserController * GetHomeView * Someone in
+2024-12-19 21:06:43,062 * INFO * com.hotel.hotel.Controller.UserController * GetHomeView * Someone in
+2024-12-19 21:06:50,488 * INFO * com.hotel.hotel.Controller.UserController * AddChambre * Admin trying to add a new Chambre
+2024-12-19 21:08:32,547 * INFO * com.hotel.hotel.Controller.UserController * SaveChambre * Admin saved some process about Chambres
+2024-12-19 21:08:32,581 * INFO * com.hotel.hotel.Controller.UserController * GetAllChambres * User viewing available chambres
+2024-12-19 21:08:44,328 * INFO * com.hotel.hotel.Controller.UserController * GetHomeView * Someone in
+2024-12-19 21:08:54,439 * INFO * com.hotel.hotel.Controller.UserController * GetHomeView * Someone in
+2024-12-19 21:09:03,611 * INFO * com.hotel.hotel.Controller.UserController * GetHomeView * Someone in
+2024-12-19 21:09:24,649 * INFO * com.hotel.hotel.Controller.UserController * GetAllChambres * User viewing available chambres
+2024-12-19 21:19:03,381 * INFO * com.hotel.hotel.Controller.UserController * GetAllChambres * User viewing available chambres
+2024-12-19 21:19:33,304 * INFO * com.hotel.hotel.Controller.UserController * GetHomeView * Someone in
+2024-12-19 21:19:39,791 * INFO * com.hotel.hotel.Controller.UserController * GetAllChambres * User viewing available chambres
+2024-12-19 21:19:46,177 * INFO * com.hotel.hotel.Controller.UserController * GetHomeView * Someone in
+2024-12-19 21:19:52,157 * INFO * com.hotel.hotel.Controller.UserController * GetAllChambres * User viewing available chambres
+2024-12-19 21:22:26,491 * INFO * com.hotel.hotel.Controller.UserController * GetAllChambres * User viewing available chambres
+2024-12-19 21:22:35,854 * INFO * com.hotel.hotel.Controller.UserController * GetHomeView * Someone in
+2024-12-19 21:22:39,933 * INFO * com.hotel.hotel.Controller.UserController * GetAllChambres * User viewing available chambres
+2024-12-19 21:27:13,432 * INFO * com.hotel.hotel.Controller.UserController * GetAllChambres * User viewing available chambres
+2024-12-19 21:28:10,095 * INFO * com.hotel.hotel.Controller.UserController * GetHomeView * Someone in
+2024-12-19 21:28:50,704 * INFO * com.hotel.hotel.Controller.UserController * GetAllChambres * User viewing available chambres
+2024-12-19 21:31:01,787 * INFO * com.hotel.hotel.Controller.UserController * GetAllChambres * User viewing available chambres
+2024-12-19 21:31:20,358 * INFO * com.hotel.hotel.Controller.UserController * GetAllChambres * User viewing available chambres
+2024-12-19 21:31:48,927 * INFO * com.hotel.hotel.Controller.UserController * GetAllChambres * User viewing available chambres
+2024-12-19 21:32:09,106 * INFO * com.hotel.hotel.Controller.UserController * GetHomeView * Someone in
+2024-12-19 21:32:32,338 * INFO * com.hotel.hotel.Controller.UserController * GetAllChambres * User viewing available chambres
+2024-12-19 21:35:14,276 * INFO * com.hotel.hotel.Controller.UserController * DeleteChambre * Admin deleted a Chambre with info  Room 123 Single Room
+2024-12-19 21:35:14,301 * INFO * com.hotel.hotel.Controller.UserController * GetAllChambres * User viewing available chambres
+2024-12-19 21:37:10,313 * INFO * com.hotel.hotel.Controller.UserController * GetAllChambres * User viewing available chambres
+2024-12-19 21:37:25,626 * INFO * com.hotel.hotel.Controller.UserController * GetHomeView * Someone in
+2024-12-19 21:37:31,169 * INFO * com.hotel.hotel.Controller.UserController * GetAllChambres * User viewing available chambres
+2024-12-19 21:37:38,856 * INFO * com.hotel.hotel.Controller.UserController * DeleteChambre * Admin deleted a Chambre with info  Room 123588555 Single Room
+2024-12-19 21:37:38,873 * INFO * com.hotel.hotel.Controller.UserController * GetAllChambres * User viewing available chambres
+2024-12-19 21:43:43,464 * INFO * com.hotel.hotel.Controller.UserController * UpdateChambreInfo * Admin trying to update a Chambre
+2024-12-19 21:43:53,825 * INFO * com.hotel.hotel.Controller.UserController * UpdateChambreInfo * Admin trying to update a Chambre
+2024-12-19 21:44:00,780 * INFO * com.hotel.hotel.Controller.UserController * GetAllChambres * User viewing available chambres
+2024-12-19 21:44:14,575 * INFO * com.hotel.hotel.Controller.UserController * UpdateChambreInfo * Admin trying to update a Chambre
+2024-12-19 21:44:29,916 * INFO * com.hotel.hotel.Controller.UserController * SaveChambre * Admin saved some process about Chambres
+2024-12-19 21:44:29,936 * INFO * com.hotel.hotel.Controller.UserController * GetAllChambres * User viewing available chambres
+2024-12-19 21:44:52,739 * INFO * com.hotel.hotel.Controller.UserController * GetHomeView * Someone in
+2024-12-19 21:46:40,144 * INFO * com.hotel.hotel.Controller.UserController * GetAllChambres * User viewing available chambres
+2024-12-19 21:46:57,116 * INFO * com.hotel.hotel.Controller.UserController * GetHomeView * Someone in
+2024-12-19 21:47:01,701 * INFO * com.hotel.hotel.Controller.UserController * AddChambre * Admin trying to add a new Chambre
+2024-12-19 21:59:30,559 * INFO * com.hotel.hotel.Controller.UserController * AddChambre * Admin trying to add a new Chambre
+2024-12-19 21:59:36,936 * INFO * com.hotel.hotel.Controller.UserController * GetAllChambres * User viewing available chambres
+2024-12-19 21:59:43,358 * INFO * com.hotel.hotel.Controller.UserController * GetHomeView * Someone in
+2024-12-19 21:59:46,811 * INFO * com.hotel.hotel.Controller.UserController * GetAllChambres * User viewing available chambres
+2024-12-19 21:59:55,765 * INFO * com.hotel.hotel.Controller.UserController * GetHomeView * Someone in
+2024-12-19 22:00:04,511 * INFO * com.hotel.hotel.Controller.UserController * GetAllChambres * User viewing available chambres
+2024-12-19 22:00:11,609 * INFO * com.hotel.hotel.Controller.UserController * GetAllChambres * User viewing available chambres
+2024-12-19 22:02:20,452 * INFO * com.hotel.hotel.Controller.UserController * BookingChambre * Some user trying to rent a chambre
+2024-12-19 22:03:35,356 * INFO * com.hotel.hotel.Controller.UserController * GetHomeView * Someone in
+2024-12-19 22:03:42,216 * INFO * com.hotel.hotel.Controller.UserController * GetHomeView * Someone in
+2024-12-19 22:03:50,325 * INFO * com.hotel.hotel.Controller.UserController * GetAllChambres * User viewing available chambres
+2024-12-19 22:04:06,243 * INFO * com.hotel.hotel.Controller.UserController * BookingChambre * Some user trying to rent a chambre
+2024-12-19 22:04:17,093 * INFO * com.hotel.hotel.Controller.UserController * SaveBooking * User rented a chambre
+2024-12-19 22:04:17,108 * INFO * com.hotel.hotel.Controller.UserController * GetAllChambres * User viewing available chambres
+2024-12-19 22:17:14,319 * INFO * com.hotel.hotel.Controller.UserController * GetAllChambres * User viewing available chambres
+2024-12-19 22:17:22,242 * INFO * com.hotel.hotel.Controller.UserController * GetHomeView * Someone in
+2024-12-19 22:17:29,157 * INFO * com.hotel.hotel.Controller.UserController * GetMyOrders * User viewing orders
+2024-12-19 22:17:56,692 * INFO * com.hotel.hotel.Controller.UserController * UpdateBooking * User trying to update booking
+2024-12-19 22:18:10,376 * INFO * com.hotel.hotel.Controller.UserController * SaveBooking * User rented a chambre
+2024-12-19 22:18:10,394 * INFO * com.hotel.hotel.Controller.UserController * GetAllChambres * User viewing available chambres
+2024-12-19 22:18:14,643 * INFO * com.hotel.hotel.Controller.UserController * GetMyOrders * User viewing orders
+2024-12-19 22:19:10,137 * INFO * com.hotel.hotel.Controller.UserController * GetHomeView * Someone in
+2024-12-19 22:19:15,897 * INFO * com.hotel.hotel.Controller.UserController * GetMyOrders * User viewing orders
+2024-12-19 22:20:40,590 * INFO * com.hotel.hotel.Controller.UserController * GetMyOrders * User viewing orders
+2024-12-19 22:20:54,702 * INFO * com.hotel.hotel.Controller.UserController * GetHomeView * Someone in
+2024-12-19 22:21:00,462 * INFO * com.hotel.hotel.Controller.UserController * GetMyOrders * User viewing orders
+2024-12-19 22:21:45,650 * INFO * com.hotel.hotel.Controller.UserController * GetAllChambres * User viewing available chambres
+2024-12-19 22:21:56,846 * INFO * com.hotel.hotel.Controller.UserController * BookingChambre * Some user trying to rent a chambre
+2024-12-19 22:22:09,347 * INFO * com.hotel.hotel.Controller.UserController * SaveBooking * User rented a chambre
+2024-12-19 22:22:09,376 * INFO * com.hotel.hotel.Controller.UserController * GetMyOrders * User viewing orders
+2024-12-19 22:22:21,117 * INFO * com.hotel.hotel.Controller.UserController * ReturnChambre * User returned a chambre
+2024-12-19 22:22:21,132 * INFO * com.hotel.hotel.Controller.UserController * GetMyOrders * User viewing orders
+2024-12-19 22:22:31,563 * INFO * com.hotel.hotel.Controller.UserController * GetMyOrders * User viewing orders
+2024-12-19 22:31:25,420 * INFO * com.hotel.hotel.Controller.UserController * GetHomeView * Someone in
+2024-12-19 22:31:41,382 * INFO * com.hotel.hotel.Controller.UserController * GetAllChambres * User viewing available chambres
+2024-12-19 22:31:53,522 * INFO * com.hotel.hotel.Controller.UserController * GetHomeView * Someone in
+2024-12-19 22:32:37,865 * INFO * com.hotel.hotel.Controller.UserController * GetMyOrders * User viewing orders
+2024-12-19 22:32:48,755 * INFO * com.hotel.hotel.Controller.UserController * ReturnChambre * User returned a chambre
+2024-12-19 22:32:48,770 * INFO * com.hotel.hotel.Controller.UserController * GetMyOrders * User viewing orders
+2024-12-19 22:32:59,171 * INFO * com.hotel.hotel.Controller.UserController * GetAllChambres * User viewing available chambres
+2024-12-19 22:33:11,803 * INFO * com.hotel.hotel.Controller.UserController * BookingChambre * Some user trying to rent a chambre
+2024-12-19 22:33:20,520 * INFO * com.hotel.hotel.Controller.UserController * SaveBooking * User rented a chambre
+2024-12-19 22:33:20,535 * INFO * com.hotel.hotel.Controller.UserController * GetMyOrders * User viewing orders
+2024-12-19 22:33:26,722 * INFO * com.hotel.hotel.Controller.UserController * GetAllChambres * User viewing available chambres
+2024-12-19 22:33:31,022 * INFO * com.hotel.hotel.Controller.UserController * BookingChambre * Some user trying to rent a chambre
+2024-12-19 22:33:41,471 * INFO * com.hotel.hotel.Controller.UserController * SaveBooking * User rented a chambre
+2024-12-19 22:33:41,489 * INFO * com.hotel.hotel.Controller.UserController * GetMyOrders * User viewing orders
+2024-12-19 22:33:48,281 * INFO * com.hotel.hotel.Controller.UserController * GetMyOrders * User viewing orders
+2024-12-19 22:33:51,495 * INFO * com.hotel.hotel.Controller.UserController * GetHomeView * Someone in
+2024-12-19 22:33:55,196 * INFO * com.hotel.hotel.Controller.UserController * GetAllChambres * User viewing available chambres
+2024-12-19 22:37:42,956 * INFO * com.hotel.hotel.Controller.UserController * GetHomeView * Someone in
+2024-12-19 22:37:53,809 * INFO * com.hotel.hotel.Controller.UserController * GetHomeView * Someone in
+2024-12-19 22:38:03,211 * INFO * com.hotel.hotel.Controller.UserController * GetAllChambres * User viewing available chambres
+2024-12-19 22:38:47,130 * INFO * com.hotel.hotel.Controller.UserController * GetMyOrders * User viewing orders
+2024-12-19 22:39:14,606 * INFO * com.hotel.hotel.Controller.UserController * GetMyOrders * User viewing orders
+2024-12-19 22:40:18,606 * INFO * com.hotel.hotel.Controller.UserController * GetAllChambres * User viewing available chambres
+2024-12-19 22:42:51,352 * INFO * com.hotel.hotel.Controller.UserController * GetHomeView * Someone in
+2024-12-19 22:42:57,185 * INFO * com.hotel.hotel.Controller.UserController * GetHomeView * Someone in
+2024-12-19 22:43:07,314 * INFO * com.hotel.hotel.Controller.UserController * GetAllChambres * User viewing available chambres
+2024-12-19 22:46:00,477 * INFO * com.hotel.hotel.Controller.UserController * GetHomeView * Someone in
+2024-12-19 22:46:09,671 * INFO * com.hotel.hotel.Controller.UserController * GetAllChambres * User viewing available chambres
+2024-12-19 22:48:25,386 * INFO * com.hotel.hotel.Controller.UserController * GetHomeView * Someone in
+2024-12-19 22:48:29,740 * INFO * com.hotel.hotel.Controller.UserController * GetAllChambres * User viewing available chambres
+2024-12-19 22:48:52,675 * INFO * com.hotel.hotel.Controller.UserController * GetHomeView * Someone in
+2024-12-19 22:48:59,087 * INFO * com.hotel.hotel.Controller.UserController * GetAllChambres * User viewing available chambres
+2024-12-19 22:49:11,886 * INFO * com.hotel.hotel.Controller.UserController * GetHomeView * Someone in
+2024-12-19 22:49:19,942 * INFO * com.hotel.hotel.Controller.UserController * GetMyOrders * User viewing orders
+2024-12-19 22:50:11,105 * INFO * com.hotel.hotel.Controller.UserController * GetAllChambres * User viewing available chambres
+2024-12-19 22:50:14,304 * INFO * com.hotel.hotel.Controller.UserController * BookingChambre * Some user trying to rent a chambre
+2024-12-19 22:50:24,006 * INFO * com.hotel.hotel.Controller.UserController * GetHomeView * Someone in
+2024-12-19 22:52:10,491 * INFO * com.hotel.hotel.Controller.UserController * GetHomeView * Someone in
+2024-12-19 22:52:30,570 * INFO * com.hotel.hotel.Controller.UserController * GetHomeView * Someone in
+2024-12-19 22:52:37,244 * INFO * com.hotel.hotel.Controller.UserController * GetMyOrders * User viewing orders
+2024-12-19 23:00:11,678 * INFO * com.hotel.hotel.Controller.UserController * GetHomeView * Someone in
+2024-12-19 23:00:17,541 * INFO * com.hotel.hotel.Controller.UserController * GetHomeView * Someone in
+2024-12-19 23:00:21,263 * INFO * com.hotel.hotel.Controller.UserController * GetAllChambres * User viewing available chambres
+2024-12-19 23:00:24,295 * INFO * com.hotel.hotel.Controller.UserController * BookingChambre * Some user trying to rent a chambre
+2024-12-19 23:01:13,684 * INFO * com.hotel.hotel.Controller.UserController * BookingChambre * Some user trying to rent a chambre
+2024-12-19 23:02:39,631 * INFO * com.hotel.hotel.Controller.UserController * SaveBooking * User rented a chambre
+2024-12-19 23:02:39,659 * INFO * com.hotel.hotel.Controller.UserController * GetMyOrders * User viewing orders
+2024-12-19 23:08:05,400 * INFO * com.hotel.hotel.Controller.UserController * GetHomeView * Someone in
+2024-12-19 23:08:20,535 * INFO * com.hotel.hotel.Controller.UserController * GetHomeView * Someone in
+2024-12-19 23:08:29,459 * INFO * com.hotel.hotel.Controller.UserController * GetAllChambres * User viewing available chambres
+2024-12-19 23:08:31,919 * INFO * com.hotel.hotel.Controller.UserController * AddChambre * Admin trying to add a new Chambre
+2024-12-19 23:09:04,333 * INFO * com.hotel.hotel.Controller.UserController * SaveChambre * Admin saved some process about Chambres
+2024-12-19 23:09:04,354 * INFO * com.hotel.hotel.Controller.UserController * GetAllChambres * User viewing available chambres
+2024-12-19 23:09:16,787 * INFO * com.hotel.hotel.Controller.UserController * UpdateChambreInfo * Admin trying to update a Chambre
+2024-12-19 23:09:29,185 * INFO * com.hotel.hotel.Controller.UserController * SaveChambre * Admin saved some process about Chambres
+2024-12-19 23:09:29,196 * INFO * com.hotel.hotel.Controller.UserController * GetAllChambres * User viewing available chambres
+2024-12-19 23:09:35,486 * INFO * com.hotel.hotel.Controller.UserController * DeleteChambre * Admin deleted a Chambre with info  room1 type1
+2024-12-19 23:09:35,496 * INFO * com.hotel.hotel.Controller.UserController * GetAllChambres * User viewing available chambres
+2024-12-19 23:09:43,717 * INFO * com.hotel.hotel.Controller.UserController * GetHomeView * Someone in
+2024-12-19 23:09:51,844 * INFO * com.hotel.hotel.Controller.UserController * GetHomeView * Someone in
+2024-12-19 23:09:59,178 * INFO * com.hotel.hotel.Controller.UserController * GetMyOrders * User viewing orders
+2024-12-19 23:10:09,499 * INFO * com.hotel.hotel.Controller.UserController * ReturnChambre * User returned a chambre
+2024-12-19 23:10:09,516 * INFO * com.hotel.hotel.Controller.UserController * GetMyOrders * User viewing orders
+2024-12-19 23:10:14,976 * INFO * com.hotel.hotel.Controller.UserController * UpdateBooking * User trying to update booking
+2024-12-19 23:10:31,070 * INFO * com.hotel.hotel.Controller.UserController * BookingChambre * Some user trying to rent a chambre
+2024-12-19 23:10:40,220 * INFO * com.hotel.hotel.Controller.UserController * GetMyOrders * User viewing orders
+2024-12-19 23:10:51,377 * INFO * com.hotel.hotel.Controller.UserController * UpdateBooking * User trying to update booking
+2024-12-19 23:11:15,812 * INFO * com.hotel.hotel.Controller.UserController * SaveBooking * User rented a chambre
+2024-12-19 23:11:15,828 * INFO * com.hotel.hotel.Controller.UserController * GetMyOrders * User viewing orders
+2024-12-19 23:11:36,469 * INFO * com.hotel.hotel.Controller.UserController * GetAllChambres * User viewing available chambres
+2024-12-19 23:11:41,391 * INFO * com.hotel.hotel.Controller.UserController * BookingChambre * Some user trying to rent a chambre
+2024-12-19 23:11:56,502 * INFO * com.hotel.hotel.Controller.UserController * SaveBooking * User rented a chambre
+2024-12-19 23:11:56,517 * INFO * com.hotel.hotel.Controller.UserController * GetMyOrders * User viewing orders
+2024-12-19 23:12:09,591 * INFO * com.hotel.hotel.Controller.UserController * GetAllChambres * User viewing available chambres
+2024-12-19 23:12:27,196 * INFO * com.hotel.hotel.Controller.UserController * BookingChambre * Some user trying to rent a chambre
+2024-12-19 23:12:30,961 * INFO * com.hotel.hotel.Controller.UserController * GetAllChambres * User viewing available chambres
+2024-12-19 23:12:35,044 * INFO * com.hotel.hotel.Controller.UserController * BookingChambre * Some user trying to rent a chambre
+2024-12-19 23:12:58,163 * INFO * com.hotel.hotel.Controller.UserController * BookingChambre * Some user trying to rent a chambre
+2024-12-19 23:13:15,451 * INFO * com.hotel.hotel.Controller.UserController * GetAllChambres * User viewing available chambres
+2024-12-19 23:15:22,479 * INFO * com.hotel.hotel.Controller.UserController * GetMyOrders * User viewing orders
+2024-12-19 23:15:34,212 * INFO * com.hotel.hotel.Controller.UserController * GetAllChambres * User viewing available chambres
+2024-12-19 23:16:13,152 * INFO * com.hotel.hotel.Controller.UserController * GetMyOrders * User viewing orders
+2024-12-19 23:16:21,457 * INFO * com.hotel.hotel.Controller.UserController * ReturnChambre * User returned a chambre
+2024-12-19 23:16:21,468 * INFO * com.hotel.hotel.Controller.UserController * GetMyOrders * User viewing orders
+2024-12-19 23:16:27,260 * INFO * com.hotel.hotel.Controller.UserController * ReturnChambre * User returned a chambre
+2024-12-19 23:16:27,273 * INFO * com.hotel.hotel.Controller.UserController * GetMyOrders * User viewing orders
+2024-12-19 23:16:31,708 * INFO * com.hotel.hotel.Controller.UserController * ReturnChambre * User returned a chambre
+2024-12-19 23:16:31,715 * INFO * com.hotel.hotel.Controller.UserController * GetMyOrders * User viewing orders
+2024-12-19 23:16:43,233 * INFO * com.hotel.hotel.Controller.UserController * GetAllChambres * User viewing available chambres
+2024-12-19 23:16:51,298 * INFO * com.hotel.hotel.Controller.UserController * GetHomeView * Someone in
+2024-12-19 23:17:04,745 * INFO * com.hotel.hotel.Controller.UserController * GetHomeView * Someone in
+2024-12-19 23:17:39,073 * INFO * com.hotel.hotel.Controller.UserController * GetHomeView * Someone in
+2024-12-19 23:17:49,057 * INFO * com.hotel.hotel.Controller.UserController * GetHomeView * Someone in
+2024-12-19 23:17:51,625 * INFO * com.hotel.hotel.Controller.UserController * AddChambre * Admin trying to add a new Chambre
+2024-12-19 23:22:54,416 * INFO * com.hotel.hotel.Controller.UserController * GetHomeView * Someone in
+2024-12-19 23:23:12,132 * INFO * com.hotel.hotel.Controller.UserController * GetHomeView * Someone in
+2024-12-19 23:23:20,720 * INFO * com.hotel.hotel.Controller.UserController * GetHomeView * Someone in
+2024-12-19 23:23:42,379 * INFO * com.hotel.hotel.Controller.UserController * GetAllChambres * User viewing available chambres
+2024-12-19 23:23:49,901 * INFO * com.hotel.hotel.Controller.UserController * BookingChambre * Some user trying to rent a chambre
+2024-12-19 23:24:02,471 * INFO * com.hotel.hotel.Controller.UserController * SaveBooking * User rented a chambre
+2024-12-19 23:24:02,503 * INFO * com.hotel.hotel.Controller.UserController * GetMyOrders * User viewing orders
+2024-12-19 23:24:08,023 * INFO * com.hotel.hotel.Controller.UserController * UpdateBooking * User trying to update booking
+2024-12-19 23:24:14,963 * INFO * com.hotel.hotel.Controller.UserController * BookingChambre * Some user trying to rent a chambre
+2024-12-19 23:24:41,221 * INFO * com.hotel.hotel.Controller.UserController * SaveBooking * User rented a chambre
+2024-12-19 23:24:41,236 * INFO * com.hotel.hotel.Controller.UserController * GetMyOrders * User viewing orders
+2024-12-19 23:33:34,529 * INFO * com.hotel.hotel.Controller.UserController * GetMyOrders * User viewing orders
+2024-12-19 23:33:41,206 * INFO * com.hotel.hotel.Controller.UserController * GetHomeView * Someone in
+2024-12-19 23:33:45,050 * INFO * com.hotel.hotel.Controller.UserController * GetMyOrders * User viewing orders
+2024-12-19 23:33:58,169 * INFO * com.hotel.hotel.Controller.UserController * UpdateBooking * User trying to update booking
+2024-12-19 23:35:27,347 * INFO * com.hotel.hotel.Controller.UserController * GetHomeView * Someone in
+2024-12-19 23:35:36,248 * INFO * com.hotel.hotel.Controller.UserController * GetHomeView * Someone in
+2024-12-19 23:35:39,516 * INFO * com.hotel.hotel.Controller.UserController * GetMyOrders * User viewing orders
+2024-12-19 23:35:44,466 * INFO * com.hotel.hotel.Controller.UserController * UpdateBooking * User trying to update booking
+2024-12-19 23:35:55,232 * INFO * com.hotel.hotel.Controller.UserController * BookingChambre * Some user trying to rent a chambre
+2024-12-19 23:36:06,590 * INFO * com.hotel.hotel.Controller.UserController * GetMyOrders * User viewing orders
+2024-12-19 23:36:12,465 * INFO * com.hotel.hotel.Controller.UserController * ReturnChambre * User returned a chambre
+2024-12-19 23:36:12,478 * INFO * com.hotel.hotel.Controller.UserController * GetMyOrders * User viewing orders
+2024-12-19 23:36:17,586 * INFO * com.hotel.hotel.Controller.UserController * UpdateBooking * User trying to update booking
+2024-12-19 23:36:26,063 * INFO * com.hotel.hotel.Controller.UserController * BookingChambre * Some user trying to rent a chambre
+2024-12-19 23:38:12,492 * INFO * com.hotel.hotel.Controller.UserController * BookingChambre * Some user trying to rent a chambre
+2024-12-19 23:38:22,947 * INFO * com.hotel.hotel.Controller.UserController * SaveBooking * User rented a chambre
+2024-12-19 23:38:22,998 * INFO * com.hotel.hotel.Controller.UserController * GetMyOrders * User viewing orders
+2024-12-19 23:41:07,879 * INFO * com.hotel.hotel.Controller.UserController * GetMyOrders * User viewing orders
+2024-12-19 23:41:19,102 * INFO * com.hotel.hotel.Controller.UserController * GetHomeView * Someone in
+2024-12-19 23:41:25,261 * INFO * com.hotel.hotel.Controller.UserController * GetMyOrders * User viewing orders
+2024-12-19 23:41:30,869 * INFO * com.hotel.hotel.Controller.UserController * UpdateBooking * User trying to update booking
+2024-12-19 23:41:41,906 * INFO * com.hotel.hotel.Controller.UserController * UpdateBooking * User rented a chambre
+2024-12-19 23:41:41,929 * INFO * com.hotel.hotel.Controller.UserController * GetMyOrders * User viewing orders
+2024-12-19 23:41:51,474 * INFO * com.hotel.hotel.Controller.UserController * UpdateBooking * User trying to update booking
+2024-12-19 23:42:00,535 * INFO * com.hotel.hotel.Controller.UserController * BookingChambre * Some user trying to rent a chambre
+2024-12-19 23:42:18,582 * INFO * com.hotel.hotel.Controller.UserController * SaveBooking * User rented a chambre
+2024-12-19 23:42:18,596 * INFO * com.hotel.hotel.Controller.UserController * GetMyOrders * User viewing orders
+2024-12-19 23:43:16,148 * INFO * com.hotel.hotel.Controller.UserController * UpdateBooking * User trying to update booking
+2024-12-19 23:43:32,437 * INFO * com.hotel.hotel.Controller.UserController * BookingChambre * Some user trying to rent a chambre
+2024-12-19 23:44:46,990 * INFO * com.hotel.hotel.Controller.UserController * UpdateBooking * User trying to update booking
+2024-12-19 23:44:52,491 * INFO * com.hotel.hotel.Controller.UserController * GetMyOrders * User viewing orders
+2024-12-19 23:45:09,568 * INFO * com.hotel.hotel.Controller.UserController * ReturnChambre * User returned a chambre
+2024-12-19 23:45:09,592 * INFO * com.hotel.hotel.Controller.UserController * GetMyOrders * User viewing orders
+2024-12-19 23:45:13,194 * INFO * com.hotel.hotel.Controller.UserController * UpdateBooking * User trying to update booking
+2024-12-19 23:45:49,020 * INFO * com.hotel.hotel.Controller.UserController * GetHomeView * Someone in
+2024-12-19 23:45:54,185 * INFO * com.hotel.hotel.Controller.UserController * GetMyOrders * User viewing orders
+2024-12-19 23:45:56,957 * INFO * com.hotel.hotel.Controller.UserController * UpdateBooking * User trying to update booking
+2024-12-19 23:46:25,577 * INFO * com.hotel.hotel.Controller.UserController * UpdateBooking * User trying to update booking
+2024-12-19 23:46:37,433 * INFO * com.hotel.hotel.Controller.UserController * UpdateBooking * User trying to update booking
+2024-12-19 23:46:46,991 * INFO * com.hotel.hotel.Controller.UserController * UpdateBooking * User rented a chambre
+2024-12-19 23:46:47,057 * INFO * com.hotel.hotel.Controller.UserController * GetMyOrders * User viewing orders
